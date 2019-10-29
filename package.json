@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "This is a Language Interpretation and Recognition Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gael22/Liri-node-app.git"
+  },
+  "author": "Gael Gohoungo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gael22/Liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Gael22/Liri-node-app#readme"
+}
