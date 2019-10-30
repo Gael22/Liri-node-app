@@ -1,0 +1,22 @@
+======Begin Spotify Log Entry======
+Artist: Gabriela Rocha
+Song Name: Hosana - Ao Vivo
+ Preview Link: https://api.spotify.com/v1/tracks/4O7Ln8etrGytw9GzXTcwZX
+Album Name: Hosana (Ao Vivo)
+======End Spotify Log Entry======
+======Begin Movie Log Entry======
+Movie title: Titanic
+Year released: 1997
+IMDB rating: 7.8
+Rotten Tomatoes rating: 89%
+Country where produced: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+======End Movie Log Entry======
+======Begin Concert Log Entry======
+Name of the musician: chris stapleton
+Name of the venue: Bon Secours Wellness Arena
+Venue location: Greenville
+ Date of event: 11-01-2019
+======End Concert Log Entry======
